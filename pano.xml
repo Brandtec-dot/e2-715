@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node1" appversion="6.1.11">
+  <panorama id="node1">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="-90" title="Прихожая" author="" latitude="" nodeid="node1" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="70.274" y="-1.06567" mapid="FloorPlan01" x="1.04782" y_floorplan_percent="74.49"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-340.75" skinid="Гостиная_Хотспот" target="$fwd" url="{node9}" title="Гостиная" tilt="-14.92" description="" id="Point01"/>
+      <hotspot pan="-339.77" skinid="Кухня_Хотспот" target="$fwd" url="{node8}" title="Кухня" tilt="-35.32" description="" id="Point02"/>
+      <hotspot pan="-340.63" skinid="Детская_Хотпоинт" target="$fwd" url="{node7}" title="Детская" tilt="-28.82" description="" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="90" title="Кухня" author="" latitude="" nodeid="node8" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="51.5773" y="-0.86174" mapid="FloorPlan01" x="0.769043" y_floorplan_percent="60.2352"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="152.55" skinid="Гостиная_Хотспот" target="$fwd" url="{node9}" title="Гостиная" tilt="-24.72" description="" id="Point01"/>
+      <hotspot pan="-231.82" skinid="Детская_Хотпоинт" target="$fwd" url="{node7}" title="Детская" tilt="-39.59" description="" id="Point03"/>
+      <hotspot pan="-281.1" skinid="Прихожая_Хотспот" target="$fwd" url="{node1}" title="Прихожая" tilt="-25.83" description="" id="Point04"/>
+      <hotspot pan="284.22" skinid="Ванная_Хотспот" target="$fwd" url="{node2}" title="Ванная" tilt="-5.22" description="" id="Point02"/>
+      <hotspot pan="246.28" skinid="Спальня_Хотспот" target="$fwd" url="{node4}" title="Спальня" tilt="-3.54" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="180" title="Детская" author="" latitude="" nodeid="node7" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="62.9289" y="-0.653343" mapid="FloorPlan01" x="0.938301" y_floorplan_percent="45.6683"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-295.11" skinid="Кухня_Хотспот" target="$fwd" url="{node8}" title="Кухня" tilt="-26.42" description="" id="Point01"/>
+      <hotspot pan="264.5" skinid="Гостиная_Хотспот" target="$fwd" url="{node9}" title="Гостиная" tilt="-46.58" description="" id="Point02"/>
+      <hotspot pan="-241.74" skinid="Прихожая_Хотспот" target="$fwd" url="{node1}" title="Прихожая" tilt="-24.05" description="" id="Point03"/>
+      <hotspot pan="-329.35" skinid="Ванная_Хотспот" target="$fwd" url="{node2}" title="Ванная" tilt="-1.1" description="" id="Point04"/>
+      <hotspot pan="23.74" skinid="Спальня_Хотспот" target="$fwd" url="{node4}" title="Спальня" tilt="-1.29" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="0" title="Гостиная" author="" latitude="" nodeid="node9" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="55.2613" y="-0.421257" mapid="FloorPlan01" x="0.823975" y_floorplan_percent="29.4456"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-61.67" skinid="Прихожая_Хотспот" target="$fwd" url="{node1}" title="Прихожая" tilt="-13.54" description="" id="Point01"/>
+      <hotspot pan="-93.79" skinid="Кухня_Хотспот" target="$fwd" url="{node8}" title="Кухня" tilt="-1.12" description="" id="Point02"/>
+      <hotspot pan="-64.78" skinid="Детская_Хотпоинт" target="$fwd" url="{node7}" title="Детская" tilt="-30.98" description="" id="Point04"/>
+      <hotspot pan="107.15" skinid="Спальня_Хотспот" target="$fwd" url="{node4}" title="Спальня" tilt="3.12" description="" id="Point03"/>
+      <hotspot pan="107.32" skinid="Ванная_Хотспот" target="$fwd" url="{node2}" title="Ванная" tilt="-3.97" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="180" title="Спальня" author="" latitude="" nodeid="node4" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="39.3737" y="-0.432587" mapid="FloorPlan01" x="0.587082" y_floorplan_percent="30.2376"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-273.73" skinid="Кухня_Хотспот" target="$fwd" url="{node8}" title="Кухня" tilt="7.96" description="" id="Point01"/>
+      <hotspot pan="87.19" skinid="Гостиная_Хотспот" target="$fwd" url="{node9}" title="Гостиная" tilt="-6.94" description="" id="Point02"/>
+      <hotspot pan="-273.21" skinid="Детская_Хотпоинт" target="$fwd" url="{node7}" title="Детская" tilt="0.67" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingroll="0" leveltilesize="510" width="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2500" levelbiashidpi="1.000" levelingpitch="0">
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="80" scaletofit="1" fovstereographic="60" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="_360 Обычные окна" source="" customnodeid="" comment="" heading="90" title="Ванная" author="" latitude="" nodeid="node2" description="" datetime="" copyright="" info="" longitude="">
+      <mapcoords x_floorplan_percent="37.808" y="-0.903969" mapid="FloorPlan01" x="0.563736" y_floorplan_percent="63.1869"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" height="20" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="142.76" skinid="Кухня_Хотспот" target="$fwd" url="{node8}" title="Кухня" tilt="-14.81" description="" id="Point01"/>
+      <hotspot pan="143.21" skinid="Детская_Хотпоинт" target="$fwd" url="{node7}" title="Детская" tilt="-1.43" description="" id="Point03"/>
+      <hotspot pan="143.01" skinid="Гостиная_Хотспот" target="$fwd" url="{node9}" title="Гостиная" tilt="13.8" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" enabled="1" zoomfov="20" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" invertwheel="0" simulatemass="1" lockedwheel="0" lockedmouse="0" hideabout="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" speedwheel="1" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" source="" customnodeid="" comment="" heading="0" title="" author="" latitude="" nodeid="master" description="" datetime="" copyright="" info="" longitude=""/>
+  </masternode>
+  <map tileformat="jpg" floorplannorth="88" type="file" title="" id="FloorPlan01" width="4343" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1" height="4167" transparent="0"/>
+</tour>
